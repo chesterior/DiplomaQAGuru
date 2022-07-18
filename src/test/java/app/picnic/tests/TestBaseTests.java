@@ -15,7 +15,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 
 
 @ExtendWith({AllureJunit5.class})
-public class TestBase {
+public class TestBaseTests {
     @BeforeAll
     static void beforeAll() {
         DriverSettings.configure();

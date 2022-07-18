@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class MainPage extends TestBase {
+public class MainPageTests extends TestBaseTests {
     @Test
     @Description("First test")
     @DisplayName("Logo \"Picnic\" should exist")

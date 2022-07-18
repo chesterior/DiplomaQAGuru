@@ -2,7 +2,7 @@ package app.picnic.tests.demowebshop;
 
 import app.picnic.config.demowebshop.App;
 import app.picnic.helpers.AllureRestAssuredFilter;
-import app.picnic.tests.TestBase;
+import app.picnic.tests.TestBaseTests;
 import com.codeborne.selenide.Configuration;
 import io.qameta.allure.Story;
 import io.restassured.RestAssured;
@@ -17,7 +17,7 @@ import static io.qameta.allure.Allure.step;
 import static io.restassured.RestAssured.given;
 
 @Story("Login tests")
-public class LoginTests extends TestBase {
+public class LoginTests extends TestBaseTests {
 
     static String login,
             password;
