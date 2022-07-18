@@ -1,6 +1,6 @@
-package cloud.autotests.tests;
+package app.picnic.tests;
 
-import cloud.autotests.helpers.DriverUtils;
+import app.picnic.helpers.DriverUtils;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class GeneratedTests extends TestBase {
+public class MainPage extends TestBase {
     @Test
     @Description("First test")
     @DisplayName("Logo \"Picnic\" should exist")

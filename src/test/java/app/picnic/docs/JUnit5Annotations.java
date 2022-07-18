@@ -1,4 +1,4 @@
-package cloud.autotests.docs;
+package app.picnic.docs;
 
 import org.junit.jupiter.api.*;
 

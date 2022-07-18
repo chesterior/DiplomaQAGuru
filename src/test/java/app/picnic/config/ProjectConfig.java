@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package app.picnic.config;
 
 import org.aeonbits.owner.Config;
 

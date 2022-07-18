@@ -1,8 +1,8 @@
-package cloud.autotests.tests.demowebshop;
+package app.picnic.tests.demowebshop;
 
-import cloud.autotests.config.demowebshop.App;
-import cloud.autotests.helpers.AllureRestAssuredFilter;
-import cloud.autotests.tests.TestBase;
+import app.picnic.config.demowebshop.App;
+import app.picnic.helpers.AllureRestAssuredFilter;
+import app.picnic.tests.TestBase;
 import com.codeborne.selenide.Configuration;
 import io.qameta.allure.Story;
 import io.restassured.RestAssured;

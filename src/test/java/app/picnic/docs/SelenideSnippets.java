@@ -1,4 +1,4 @@
-package cloud.autotests.docs;
+package app.picnic.docs;
 
 import com.codeborne.selenide.*;
 import org.openqa.selenium.Keys;

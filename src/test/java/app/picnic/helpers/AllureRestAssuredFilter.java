@@ -1,4 +1,4 @@
-package cloud.autotests.helpers;
+package app.picnic.helpers;
 
 import io.qameta.allure.restassured.AllureRestAssured;
 
