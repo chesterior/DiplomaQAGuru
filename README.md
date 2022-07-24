@@ -1,4 +1,4 @@
-# https://www.picnic.app/ (medium clone) automated tests
+# https://www.picnic.app/ automated tests
 
 ## Covered features:
 
